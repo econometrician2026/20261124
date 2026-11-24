@@ -1,0 +1,6 @@
+{
+  "name": "翠嶺木球錦標賽",
+  "description": "精緻的台灣木球運動遊戲，體驗真實揮桿擊球、坡道判讀、木護欄反彈與正面攻門翻杯樂趣。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
